@@ -15,6 +15,7 @@ atualmente tenho <strong>16 anos</strong>, mas eu gostaria de arrumar algum empr
 <p><strong>Cursos feitos:</strong><br>
 O curso de Python  da cisco e do SENAI.<br>
 O curso de PRIVACIDADE E PROTEÇÃO DE DADOS (LGPD) do SENAI.<br>
+<img src="https://www.dkrli.com.br/wp-content/uploads/2024/03/O-que-e-e-como-se-adequar-a-LGPD-scaled.jpg" alt=""><br>
 <img src="https://dwglogo.com/wp-content/uploads/2016/05/Cisco_logo_full-1024x576.png" alt="Cisco"></p>
 <p><strong>Objetivo:</strong><br>
 Eu gostaria de arrumar empregos que envolvam computadores, pode ser desde de programação, montar ou desmontar computadores (De Preferencia que não sejam extremamente empoeirados).</p>
