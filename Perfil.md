@@ -23,7 +23,7 @@ Ensino Fundamental l e ll 2014-2022/<em><strong>Escola SESI Antônio Scalon 423<
 <p><strong>Experiência Profissional:</strong><br>
 Nenhuma real, mas fiz trabalhos que simulavam isso.</p>
 <p><strong>Habilidades:</strong><br>
-Sei desmontar Computadores, resolvo alguns problemas bem simples de Hardware, sei instalar softwares de computador (Principalmente windows), sei programar em python, um pouco de HTML.</p>
+Sei desmontar Computadores, resolvo alguns problemas bem simples de Hardware, sei instalar softwares de computador (Principalmente windows), sei programar em python, um pouco de HTML, sei um pouco de Node e sei usar o Figma.</p>
 <p><strong>Formação Complementar:</strong><br>
 Ainda nenhuma.</p>
 </div>
